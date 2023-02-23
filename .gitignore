@@ -1,0 +1,9 @@
+.vscode/
+Demo-Docker/.idea
+
+###########
+Demo-Docker/app-client/node_modules
+Demo-Docker/app-client/.vscode
+
+##########
+Demo-Docker/app-server/node_modules
