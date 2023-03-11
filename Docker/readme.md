@@ -14,7 +14,7 @@
     - Attach local standard input, output, and error streams to a running container: **docker attach [container_id]**
     - Run with -p 80:80: mapping port host to port docker container run.
 
-----
+---------------
   - Get infomation of docker Object: **docker inspect [container_id]**
   - Ip Adress: accesst to docker from browser. 
   - Map ip docker to ip local (the same port): docker run -p portdocker:portlocal
@@ -24,4 +24,5 @@
   - Delete container(container stoped): **docker rm [container_id]**
   - Pull docker from repository: **docker pull [repo_name:tag]**
   
+---------------------
   
